@@ -32,8 +32,8 @@ const Footer = () => {
                 <Container maxWidth="sm">
                     <Typography variant="body1" color="textSecondary">
                         Created by: {' '}
-                        <Link className={classes.linkColor} href="https://github.com/Abidjaweed" target="_blank" rel="noopener noreferrer">
-                            Abid Jaweed {'  '} <GitHubIcon />
+                        <Link className={classes.linkColor} href="https://github.com/alikamal2381" target="_blank" rel="noopener noreferrer">
+                            Ali Kamal {'  '} <GitHubIcon />
                         </Link> 
                     </Typography>
 
